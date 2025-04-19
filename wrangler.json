@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wild-disk-a271",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "96a83926-ffde-4973-abd7-2eccde502333",
+      "database_name": "bitter-butterfly-dcd4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
